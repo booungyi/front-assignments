@@ -25,7 +25,7 @@ export default function Assignment2() {
     height: 80,
     weight: 151,
     job: "Full Stack Developer",
-    famousLines: ["펭귄이 하늘에 서겠다.", "기술은 인간을 위합니다."],
+    famousLines: ["펭귄이 하늘에 서겠다.", "기술은 위합니다 인간."],
   };
 
   return (
